@@ -47,5 +47,4 @@ This project is built using **React, Node.js, Express, MongoDB**, and **OpenAI A
 
 ---
 
-## 📁 Project Structure
 
